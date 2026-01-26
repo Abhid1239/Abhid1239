@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Senior Frontend Engineer with **5+ years of experience** building **high-traffic B2C platforms** and **data-intensive B2B dashboards**.
+Senior Frontend Engineer with **5+ years of experience** building **high-traffic B2C platforms** and **data-intensive B2B Applications**.
 
 - **Currently:** Quantiphi – *Elevate Sports Ventures*
 - **Previously:** CarWale / BikeWale (SEO-heavy consumer platforms)
@@ -25,7 +25,7 @@ Senior Frontend Engineer with **5+ years of experience** building **high-traffic
 
 ---
 
-## 🧠 Specialization & What I’ve Worked On
+## 🧠 What I’ve Worked On
 
 - **SEO-critical pages** serving millions of users  
 - **Revenue & ticket analytics** handling **1.2M+ tickets/year**  
@@ -36,7 +36,7 @@ Senior Frontend Engineer with **5+ years of experience** building **high-traffic
 
 ---
 
-## 🛠 Tech Stack (Hands-on)
+## 🛠 Tech Stack
 
 ### Languages & Core
 <p>
@@ -97,7 +97,7 @@ Senior Frontend Engineer with **5+ years of experience** building **high-traffic
 
 ---
 
-## 🏆 Selected Work
+## Work
 
 ### 📊 Quantiphi – Elevate Sports Ventures
 - Micro-app migration (subdomain-based routing)
